@@ -1,0 +1,11 @@
+{
+  "name": "Covid-19 Stats PH",
+  "version": "0.0.1",
+  "description": "latest covid data of the Philippines",
+  "manifest_version": 3,
+  "author": "Rune",
+  "action":{
+    "default_popup": "index.html",
+    "default_title": "Latest Covid Report"
+  }
+}
